@@ -43,11 +43,11 @@ profiles:
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: [https://www.linkedin.com/](https://www.linkedin.com/in/liang-zhang-2a7b672aa/)
+    url: https://www.linkedin.com/in/liang-zhang-2a7b672aa/
   - icon: academicons/google-scholar
-    url: [https://scholar.google.com/](https://scholar.google.com/citations?hl=en&user=U-ZFUMcAAAAJ&sortby=pubdate&view_op=list_works&gmla=AH8HC4wfnz3SEs_HaRgyKjCmaIyG34uReXj3bzJhgKRGbqIwzhqsCkPiCQdn9K74thIBcgZQgTKGOL5-mTf7G10A#)
+    url: https://scholar.google.com/citations?hl=en&user=U-ZFUMcAAAAJ&sortby=pubdate&view_op=list_works&gmla=AH8HC4wfnz3SEs_HaRgyKjCmaIyG34uReXj3bzJhgKRGbqIwzhqsCkPiCQdn9K74thIBcgZQgTKGOL5-mTf7G10A#
   - icon: academicons/orcid
-    url: [https://orcid.org/](https://orcid.org/0000-0002-2836-1356)
+    url: https://orcid.org/0000-0002-2836-1356
 
 interests:
   - Artificial Intelligence
