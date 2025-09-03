@@ -178,7 +178,7 @@ awards:
     url: https://research.uc.edu/armstrong-institute
     date: '2023-05'
     awarder: University of Cincinnati
-    icon: University of Cincinnati
+    icon: brands/github
     summary: |
       - Proposed an adaptively updating two-stage multi-objective optimization design framework for the design of the bio-inspired drill into the lunar regolith.
       - Developed Multivariate Adaptive Regression Splines (MARS) models to predict the performance of the clam-inspired lunar drill.
@@ -189,7 +189,7 @@ awards:
   - title: SEAS Lockheed Research Fellowship – Academic Year 2021-2022    
     date: '2022-01'
     awarder: University of the District of Columbia
-    icon: University of the District of Columbia
+    icon: brands/github
     summary: |      
       - Proposed an optimization approach for site investigation planning in the reliability assessment of undrained spatially variable slopes using the Spearman rank correlation coefficient.
       - This work is published in the journal Computers and Geotechniques, titled _Optimization of site investigation program for reliability assessment of undrained slope using Spearman rank correlation coefficient_.
