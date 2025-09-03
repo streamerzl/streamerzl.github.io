@@ -57,7 +57,7 @@ interests:
   - Machine Learning
 
 education:
-  - area: PhD, Civil Engineering
+  - area: PhD Civil Engineering
     institution: University of Cincinnati
     date_start: 2022-08-15
     date_end: 2025-05-01
@@ -79,7 +79,7 @@ education:
       - CVE 7061 ADVANCED SOIL MECHANICS
       - CVE 6088 FINITE ELEMENT MODELING OF CIVIL AND ARCH ENGINEERING STRUCTURES
       - ESL 7069 SUCCESS IN ACADEMIC WRITING
-  - area: PhD Student, Civil Engineering
+  - area: PhD Student Civil Engineering
     institution: University of the District of Columbia
     date_start: 2022-01-05
     date_end: 2022-08-15
