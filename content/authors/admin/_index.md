@@ -207,8 +207,7 @@ awards:
     awarder: Chinese Ministry of Education
   - title: Pacemaker to Merit Student
     date: '2014-12'
-    awarder: China Unversity of Geosciences (Wuhan)
-    
+    awarder: China Unversity of Geosciences (Wuhan) 
 ---
 
 ## About Me
