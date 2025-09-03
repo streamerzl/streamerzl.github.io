@@ -186,8 +186,7 @@ awards:
       - This work is published in the journal Structural and Multidisciplinary Optimization, titled _Multivariate adaptive regression splines for two-stage design optimization of bio-inspired drilling into the lunar regolith_. 
 
 
-  - title: SEAS Lockheed Research Fellowship – Academic Year 2021-2022
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  - title: SEAS Lockheed Research Fellowship – Academic Year 2021-2022    
     date: '2022-01'
     awarder: University of the District of Columbia
     icon: University of the District of Columbia
