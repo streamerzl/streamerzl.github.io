@@ -34,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:zhang4lg@ucmail.uc.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -50,17 +50,19 @@ profiles:
     url: https://orcid.org/0000-0002-2836-1356
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Risk and Reliability
+  - Geohazards
+  - Uncertainty modelling
+  - Bio-inspired Design
+  - Machine Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Civil Engineering
+    institution: University of Cincinnati
+    date_start: 2022-08-15
+    date_end: 2025-05-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Dissertation on _Reliability Assessment of Flood Protection Infrastructure Considering Soil Spatial Variability under Hazard Conditions_. Supervised by [Prof Lei Wang](https://researchdirectory.uc.edu/p/wang4li). Published 7 first authored papers, 9 co-authored papers and 9 conference papers.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
