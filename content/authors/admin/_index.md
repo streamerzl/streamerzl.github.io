@@ -176,7 +176,7 @@ languages:
 awards:
   - title: SRIDE Fellowship for Exploration (Graduate students) for the 2023-2024 Academic Year
     url: https://research.uc.edu/armstrong-institute
-    date: '2023-05'
+    date: '2023-05-01'
     awarder: University of Cincinnati
     icon: brands/github
     summary: |
@@ -187,26 +187,26 @@ awards:
 
 
   - title: SEAS Lockheed Research Fellowship – Academic Year 2021-2022    
-    date: '2022-01'
+    date: '2022-03-05'
     awarder: University of the District of Columbia
     icon: brands/github
     summary: |      
       - Proposed an optimization approach for site investigation planning in the reliability assessment of undrained spatially variable slopes using the Spearman rank correlation coefficient.
       - This work is published in the journal Computers and Geotechniques, titled _Optimization of site investigation program for reliability assessment of undrained slope using Spearman rank correlation coefficient_.
   - title: National Inspirational Scholarship    
-    date: '2015-12'
+    date: '2015-12-01'
     awarder: Chinese Ministry of Education
   - title: Pacemaker to Merit Student
-    date: '2015-12'
+    date: '2015-12-01'
     awarder: China Unversity of Geosciences (Wuhan)
   - title: Outstanding Volunteer for Basic Course Guidance (Engineering Mechanics)
-    date: '2015-08'
+    date: '2015-08-01'
     awarder: Undergraduate Student Learning Center at China University of Geosciences
   - title: National Inspirational Scholarship    
-    date: '2014-12'
+    date: '2014-12-01'
     awarder: Chinese Ministry of Education
   - title: Pacemaker to Merit Student
-    date: '2014-12'
+    date: '2014-12-01'
     awarder: China Unversity of Geosciences (Wuhan) 
 ---
 
