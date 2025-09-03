@@ -68,7 +68,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
 
-    Courses included:
+      Courses included:
       - CS 6037 MACHINE LEARNING
       - CVE 6063 PAVEMENT PRINCIPLES
       - CVE 6060 SLOPE STABILITY
